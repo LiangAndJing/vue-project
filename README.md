@@ -1,8 +1,9 @@
 搭建项目VUE 项目:
+过程: vue-cli 脚手架 
+# npm install -g webpack vue-cli
+# vue init webpack vue-start
 
-# vue-pro
 
-> A Vue.js project
 
 ## Build Setup
 
@@ -22,3 +23,4 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+    
